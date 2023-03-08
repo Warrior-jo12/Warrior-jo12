@@ -1,4 +1,4 @@
-[![MasterHead]([https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcnvbRtSQ&#x2F;view?embed](https://www.canva.com/design/DAFcnvbRtSQ/view)
+<!-- [![MasterHead]([https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcnvbRtSQ&#x2F;view?embed](https://www.canva.com/design/DAFcnvbRtSQ/view) -->
 <img align="center" src="[https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcnvbRtSQ&#x2F;view?embed](https://www.canva.com/design/DAFcnvbRtSQ/view)" />
 <h1 align="center">Hi 👋, I'm Eyob</h1>
 <h3 align="center">Software Engineering student</h3>
