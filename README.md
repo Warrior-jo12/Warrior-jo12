@@ -6,7 +6,7 @@
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcnvbRtSQ&#x2F;view?utm_content=DAFcnvbRtSQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Welcome to My Wonder!</a> by Eyob Kelcha
-
+<img align="center" src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcnvbRtSQ&#x2F;view?embed" />
 <h1 align="center">Hi 👋, I'm Eyob</h1>
 <h3 align="center">Software Engineering student</h3>
 <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
