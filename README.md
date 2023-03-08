@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eyob</h1>
 <h3 align="center">Software Engineering student</h3>
+<img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warrior-jo12&label=Profile%20views&color=0e75b6&style=flat" alt="warrior-jo12" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Django, React.js, Machine Learning, Gin, Hasura**
 
@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/eyob-alemu-388307247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyob-alemu-388307247" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
